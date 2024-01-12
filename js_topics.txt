@@ -1,0 +1,3 @@
+JavaScript:
+1. Hoisting
+2. Function
