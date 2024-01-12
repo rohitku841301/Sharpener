@@ -3,3 +3,7 @@ JavaScript:
 2. Function
 3. Closure
 4. Promises
+
+new topics
+1. map, filter, reduce
+2. Callback hell
