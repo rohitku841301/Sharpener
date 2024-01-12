@@ -6,3 +6,4 @@ JavaScript:
 
 new topics
 1. map, filter, reduce
+2. Callback hell
